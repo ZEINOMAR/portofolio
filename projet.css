@@ -101,13 +101,13 @@ ul {
 }
 
 img {
-  width: 100%;
+  width: 90%;
   height: auto;
+  display: flex;
+  align-items: flex-end;
 }
 
-#my_picture_linkedin {
-  border-radius: 50%;
-}
+
 
 /* CSS LAYOUTIN CLASS */
 
